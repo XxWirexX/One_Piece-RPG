@@ -6,8 +6,8 @@ import pytmx
 import pyscroll
 
 from player import Player
-from src.dialog import DialogBox
-from src.map import MapManager
+from dialog import DialogBox
+from map import MapManager
 
 class Game:
     def __init__(self):

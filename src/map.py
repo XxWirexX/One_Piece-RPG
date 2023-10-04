@@ -2,7 +2,7 @@ from dataclasses import dataclass
 
 import pygame, pytmx, pyscroll
 
-from src.player import NPC
+from player import NPC
 
 
 @dataclass
